@@ -1,0 +1,100 @@
+.name{
+	font-size:1.2em;
+	color: #FFFFFF;
+	font-family:Tahoma, Impact, sans-serif;
+	font-weight:bold;
+    padding: 20;
+    margin-left: 30;
+    background-color: #6b3e2e
+}
+.container{
+	padding: 00px 30px;
+    background-color: #ccb394;
+    overflow-y:auto
+}
+header{
+	padding: 10;
+    width: 105%;
+    background-color: #6B3E2E
+}
+
+body{
+	font-family:Tahoma,sans-serif;
+	font-size: 1em;
+}
+nav{
+	font-family:Tahoma, Impact;
+	color: #FFFFFF;
+	background-color: #c38452;
+    padding: 15
+}
+body{
+	font-family: Tahoma, Impact;
+    margin-top: -10;
+    margin-left: -10;
+    margin-right: -10;
+    background-color: #ccb394
+}
+form{
+	text-align:left;
+	margin:0 auto;
+}
+.choices{
+	padding-left:50;
+}
+
+.container {
+    background-color: #ccb394
+}
+
+.input {
+    border: none;
+    border-radius: 25px;
+}
+footer{
+	background-color: #c38452;
+    position: fixed;
+	bottom: 0;
+	width: 105%;
+	height: 2.5rem;
+}
+.text{
+	padding-left:40px;
+	padding-right:50px;
+}
+
+.order {
+    color: #ffff;
+    border-radius: 25px;
+    background-color: #c38452;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none
+}
+
+.order2 {
+    border-radius: 25px;
+    background-color: #c38452;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none
+}
+
+a {
+  color: #ffff;
+}
+
+a:visited {
+  background-color: #c38452;
+}
+a:hover, a:active, a:focus {
+  background-color: #ca5547;
+}
+
+p {
+    text-decoration: none!important;
+}
