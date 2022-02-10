@@ -1,0 +1,54 @@
+.name{
+	font-size:4em;
+	color: white;
+	text-shadow:grey 0px 0px 20px;
+	font-family:Tahoma, Impact, sans-serif;
+	font-weight:bold;
+	margin: auto;
+	text-align:center;
+	padding:10px 0px;
+}
+header{
+	background-color:rgb(55,153,255);
+	padding: 10;
+}
+
+body{
+	font-family:Tahoma,sans-serif;
+	font-size:2em;
+}
+nav{
+	display:flex;
+	justify-content: center;
+	font-family:Tahoma, Impact;
+	color:white;
+	text-shadow:grey 0px 0px 5px;
+	font-weight:bold;
+	/*background-color:rgb(30,130,255);*/
+}
+body{
+	font-family: Tahoma, Impact;
+}
+form{
+	text-align:left;
+	margin:0 auto;
+}
+.container{
+	margin:auto;
+	padding:00px 50px;
+}
+.choices{
+	padding-left:50;
+}
+footer{
+	background-color:rgb(55,153,255);
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 2.5rem;
+}
+}
+.text{
+	padding-left:50px;
+	padding-right:50px;
+}
