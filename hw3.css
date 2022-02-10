@@ -89,6 +89,15 @@ footer{
     margin-right: 50px;
 }
 
+@media (min-width:320px) {
+    .order3 {
+        border-radius: 25px;
+        background-color: #c38452;
+        padding: 10px;
+        margin-right: 50px;
+    }
+}
+
 a {
   color: #ffff;
 }
