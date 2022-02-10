@@ -81,21 +81,23 @@ footer{
     margin-right: 50px;
 }
 
+
+@media (min-width:480px) {
+    .order3 {
+	margin-left: -30px!important
+        border-radius: 25px;
+        background-color: #c38452;
+        padding: 10px;
+        margin-right: 50px;
+    }
+}
+
 .order3 {
     margin-left: 850px!important;
     border-radius: 25px;
     background-color: #c38452;
     padding: 10px;
     margin-right: 50px;
-}
-
-@media (min-width:480px) {
-    .order3 {
-        border-radius: 25px;
-        background-color: #c38452;
-        padding: 10px;
-        margin-right: 50px;
-    }
 }
 
 a {
