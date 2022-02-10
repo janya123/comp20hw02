@@ -89,7 +89,7 @@ footer{
     margin-right: 50px;
 }
 
-@media (min-width:320px) {
+@media (min-width:480px) {
     .order3 {
         border-radius: 25px;
         background-color: #c38452;
